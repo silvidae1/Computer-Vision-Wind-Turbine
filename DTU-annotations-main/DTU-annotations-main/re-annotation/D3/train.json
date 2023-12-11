@@ -3860,7 +3860,7 @@
             "iscrowd": 0.0,
             "pose": null,
             "truncated": null,
-            "category_id": 1,
+            "category_id": 4,
             "difficult": null
         },
         {
@@ -3878,7 +3878,7 @@
             "iscrowd": 0.0,
             "pose": null,
             "truncated": null,
-            "category_id": 4,
+            "category_id": 1,
             "difficult": null
         },
         {
